@@ -9,5 +9,7 @@ public class Git1 {
         System.out.println("gogo");
         System.out.println("gogogo");
         System.out.println("gogogo");
+        System.out.println("-------");
+        System.out.println("+++++++");
     }
 }
